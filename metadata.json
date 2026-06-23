@@ -1,0 +1,6 @@
+{
+  "name": "SesOl",
+  "description": "Engelli bireyler için interneti ve günlük yaşamı erişilebilir kılan, gönüllülerle ihtiyaç sahiplerini buluşturan engelsiz platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
